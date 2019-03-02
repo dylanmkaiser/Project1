@@ -1,0 +1,17 @@
+﻿climate_zone,reference_city,cz_location,sunny_days,highest_temp_rec,lowest_temp_rec,Latitude,Longitude,Elevation,HDD,CDD
+1,Eureka,1-Eureka,179,85,21,41.3,124.28,43,4496,0
+2,Napa,2-Napa,260,113,14,38.28,122.27,60,2844,456
+3,Oakland,3-Oakland,261,113,14,37.75,122.2,10,2909,128
+4,San Jose,4-San Jose,257,109,19,37.35,121.9,70,2335,574
+5,Santa Maria,5-Santa Maria,283,108,20,34.93,120.42,230,2844,456
+6,Los Angeles,6-Los Angeles,284,110,27,33.93,118.4,110,1902,470
+7,San Diego,7-San Diego,263,111,29,32.73,117.17,10,2009,505
+8,Long Beach,8-Long Beach,278,111,25,33.82,118.15,30,1430,1201
+9,Los Angeles Civic Center,9-Los Angeles Civic Center,263,110,28,34.05,118.23,270,1154,1537
+10,Riverside,10-Riverside,277,116,19,33.95,117.38,840,1904,1714
+11,Red Bluff,11-Red Bluff,249,119,20,40.09,122.15,342,2688,1904
+12,Stockton,12-Stockton,257,114,19,37.54,121.15,22,2702,1470
+13,Fresno,13-Fresno,271,111,19,36.46,119.43,328,2702,1470
+14,Barstow,14-Barstow,281,116,3,35,116.47,1927,2581,4239
+15,Brawley,15-Brawley,305,122,2,32.95,115.55,0,1106,6565
+16,Bishop,16-Bishop,296,109,-7,37.22,118.22,4108,4313,1037
