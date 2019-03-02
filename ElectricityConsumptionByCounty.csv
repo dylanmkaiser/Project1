@@ -1,59 +1,59 @@
-﻿county,2015 Millions of kWh (GWh),,,
-alameda,2899.423542,,,
-alpine,11.855504,,,
-amador,132.980232,,,
-butte,716.501321,,, 
-calaveras,191.705184,,,
-colusa,64.437041,,,
-contra costa,2742.073498,,,
-del norte,116.055484,,,
-el dorado,723.831358,,,
-fresno,2674.195219,,,
-glenn,90.43603,,,
-humboldt,389.990132,,,
-imperial,536.315921,,,
-inyo,56.874062,,,
-kern,2267.943879,,,
-kings,368.152945,,,
-lake,276.406893,,,
-lassen,94.823925,,,
-los angeles,20471.56454,,,
-madera,421.33341,,,
-marin,653.265528,,,
-mariposa,67.60943,,,
-mendocino,294.172808,,,
-merced,706.260171,,,
-modoc,54.069319,,,
-mono,78.857738,,,
-monterey,684.295335,,,
-napa,362.093099,,,
-nevada,406.458242,,,
-orange,6875.75933,,,
-placer,1365.818731,,,
-plumas,91.395498,,,
-riverside,7090.413146,,,
-sacramento,4738.564168,,,
-san benito,118.085033,,,
-san bernardino,4953.489541,,,
-san diego,6883.311679,,,
-san francisco,1437.37961,,,
-san joaquin,1745.357156,,,
-san luis obispo,634.625454,,,
-san mateo,1505.671732,,,
-santa barbara,766.358133,,,
-santa clara,3859.209092,,,
-santa cruz,551.701187,,,
-shasta,729.764078,,,
-sierra,14.359115,,,
-siskiyou,218.689488,,,
-solano,1016.376649,,,
-sonoma,1283.718184,,,
-stanislaus,1708.654083,,,
-sutter,274.445158,,,
-tehama,229.651559,,,
-trinity,10.261935,,,
-tulare,1219.385964,,,
-tuolumne,206.545733,,,
-ventura,1822.525154,,,
-yolo,504.997365,,,
-yuba,210.034874,,,
+﻿county,2015 Millions of kWh (GWh)
+Alameda,2899.423542
+Alpine,11.855504
+Amador,132.980232
+Butte,716.501321
+Calaveras,191.705184
+Colusa,64.437041
+Contra Costa,2742.073498
+Del Norte,116.055484
+El Dorado,723.831358
+Fresno,2674.195219
+Glenn,90.43603
+Humboldt,389.990132
+Imperial,536.315921
+Inyo,56.874062
+Kern,2267.943879
+Kings,368.152945
+Lake,276.406893
+Lassen,94.823925
+Los Angeles,20471.56454
+Madera,421.33341
+Marin,653.265528
+Mariposa,67.60943
+Mendocino,294.172808
+Merced,706.260171
+Modoc,54.069319
+Mono,78.857738
+Monterey,684.295335
+Napa,362.093099
+Nevada,406.458242
+Orange,6875.75933
+Placer,1365.818731
+Plumas,91.395498
+Riverside,7090.413146
+Sacramento,4738.564168
+San Benito,118.085033
+San Bernardino,4953.489541
+San Diego,6883.311679
+San Francisco,1437.37961
+San Joaquin,1745.357156
+San Luis Obispo,634.625454
+San Mateo,1505.671732
+Santa Barbara,766.358133
+Santa Clara,3859.209092
+Santa Cruz,551.701187
+Shasta,729.764078
+Sierra,14.359115
+Siskiyou,218.689488
+Solano,1016.376649
+Sonoma,1283.718184
+Stanislaus,1708.654083
+Sutter,274.445158
+Tehama,229.651559
+Trinity,10.261935
+Tulare,1219.385964
+Tuolumne,206.545733
+Ventura,1822.525154
+Yolo,504.997365
+Yuba,210.034874
