@@ -35,6 +35,60 @@ Look in the "Images" folder to see the graphs that we created, and that will be 
 
 Main idea: The geography of California will have an effect on the number of solar installations in the state.
 
+# Jupyter notebook details
+BLOCK 1
+Dependencies
+
+BLOCK 2
+Upload data from the various CSV.
+
+BLOCK 3
+Clean data by only selecting the columns we need from the pv_data csv
+and filter by residential.  Drop blanked information.
+
+BLOCK 4
+Merge pv_data, electricity_consumption, population, climate_zip_code
+Merge all of the CSV into one dataframe by Zip code. 
+
+BLOCK 5
+Organize data by Climate Zone called solardata_summary
+
+BLOCK 6
+Cleaned up data on Climate Zone Details created from report in oder to
+merge climate_zone_details
+
+BLOCK 7
+From solardata_summary merged in climate_zone_details
+
+BLOCK 8
+Use Geomap API to map
+Group cities to make it more clear
+
+BLOCK 9
+Temperature Comparted to Number of Installations graphing
+
+BLOCK 10
+Temperature Compared to Average System Size graphing
+
+BLOCK 11, 12, 13, 14
+Organized data to do the Good of Fitness Test
+
+BLOCK 15
+Percent of Housing Units with Solar Installations graphing
+
+BLOCK 16
+Heatmap 
+
+BLOCK 17
+Solar Installations as % of Housing Units graphing
+
+BLOCK 18
+Sunny Days vs Installation Size graphing
+
+BLOCK 19
+Sunny Days vs Cost per Watt graphing
+
+
 1. Hypothesis: Climate zones with the higher temperature recorded will have more installations.
 
 2. Hypothesis: Cities in the Central Valley of California will have more solar installations.
