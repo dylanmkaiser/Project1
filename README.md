@@ -35,7 +35,9 @@ Look in the "Images" folder to see the graphs that we created, and that will be 
 
 Main idea: The geography of California will have an effect on the number of solar installations in the state.
 
-# Jupyter notebook details
+# Jupyter notebook details (for open_pv_california_2015-V3)
+# All other notebooks we either used to help create this notebook, or were based off of data from this notebook
+
 BLOCK 1
 Dependencies
 
@@ -90,6 +92,7 @@ Sunny Days vs Cost per Watt graphing
 
 
 1. Hypothesis: Climate zones with the higher temperature recorded will have more installations.
+    We considered the fact that temperature might have an effect on the number of installations. There did not appear to be much of a correlation here.
 
 2. Hypothesis: Cities in the Central Valley of California will have more solar installations.
     The idea here was that homes in the central valley are often in remote areas. These areas are often not connected to the grid. Thus, homes need another source of energy, and solar energy seems like a viable alternative. The Central Valley of California is one of the most productive agricultural regions in the world, and as such, we figured must receive enough sunlight to make solar installations cost effective, especially when paired with the fact that it is hard to connect the statewide electric grid to homes in remote regions.
